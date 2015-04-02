@@ -1,0 +1,9 @@
+++*** Version 3.0.8 (beta) - API 3.0.8 (beta) - 2013-04-08
+
+
+- Fix Bug #63142 - memcache client Segmentation fault
+- Fix Bug #63272 - Explicitly reserve range of flags in php_memcache.h so application code can use
+- Fix Bug #59602 - getExtendedStats fails on the host intermittently after restarting memcache
+- Fix Bug #63141 - Added LICENSE file and include tests folder in package
+ 
+
